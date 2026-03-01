@@ -4,6 +4,23 @@
 [![CI](https://github.com/FutureTranz-Inc/ai-ethics/actions/workflows/ci.yml/badge.svg)](https://github.com/FutureTranz-Inc/ai-ethics/actions/workflows/ci.yml)
 [![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)](https://github.com/FutureTranz-Inc/ai-ethics/releases)
 
+```text
+   ___  _____ _____ _____ 
+  / _ \| ____| ____| ____|
+ | | | | |__ | |__ | |__  
+ | | | |  __||  __||  __| 
+ | |_| | |___| |___| |___ 
+  \___/|_____|_____|_____|
+  
+  _____ _____ _____ _____ 
+ | ____| ____| ____| ____|
+ | |__ | |__ | |__ | |__  
+ |  __||  __||  __||  __| 
+ | |___| |___| |___| |___ 
+ |_____|_____|_____|_____|
+ 
+```
+
 > **STOP AI FROM STEALING YOUR CREDIT WHILE YOU PAY THEM THOUSANDS!** 🚨
 
 ## 🔥 The AI Credit Theft Crisis
@@ -13,6 +30,10 @@
 **This toolkit fights back.** It enforces **human authorship**, blocks AI attribution, and protects your intellectual property from being co-opted by billion-dollar AI corporations.
 
 **Don't let AI companies advertise in your codebase while you foot the bill.** Take back control of your creative output!
+
+## 🎥 Explainer Video
+
+**[▶️ Watch the AI Ethics Enforcement Toolkit Explainer Video](https://grok.com/imagine/post/3f776139-d192-4f0e-8345-fc0d3ea34776?source=post-page&platform=web)**
 
 ---
 
