@@ -52,7 +52,7 @@ jobs:
 
               ### Why This Policy Exists:
               - AI cannot hold copyright (only humans can be legal authors)
-              - Protects original human contributors' rights (snarktank/ai-ethics)
+              - Protects original human contributors' rights
               - Complies with open source attribution requirements
 
               **Reference:** [AI_ATTRIBUTION_POLICY.md](/AI_ATTRIBUTION_POLICY.md)

@@ -28,7 +28,7 @@ This repository PROHIBITS the inclusion of AI attribution in:
 
 1. **Copyright and Authorship**: Copyright authorship and legal accountability attach to natural persons. Attribution in this repository must identify human contributors.
 2. **Attribution Integrity**: Labeling an AI tool as a co-author creates inaccurate authorship metadata and weakens the integrity of project history.
-3. **Open Source Compliance**: Original human contributors (snarktank/ai-ethics and others) must remain accurately credited.
+3. **Open Source Compliance**: Original human contributors must remain accurately credited.
 
 ### Ethical Obligations
 
@@ -79,8 +79,6 @@ The following MUST always be preserved:
 Co-Authored-By: [Human Name] <human@email.com>
 Signed-off-by: [Human Name] <human@email.com>
 
-Based on: snarktank/ai-ethics
-Original Author: Ryan Carson
 Prepared by: Victor J. Quiñones (FutureTranz)
 ```
 
